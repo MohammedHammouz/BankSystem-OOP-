@@ -1,0 +1,362 @@
+﻿  Add_New_Client.cpp
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUser.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\Global.h(4,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\Global.h(4,9): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\Global.h(4,23): error C2825: 'clsUser': must be a class or namespace when followed by '::'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\Global.h(4,32): error C2510: 'clsUser': left of '::' must be a class/struct/union
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsBankClient.h(380,59): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsBankClient.h(389,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteClientScreen.h(8,39): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteClientScreen.h(34,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsClientListScreen.h(6,37): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsClientListScreen.h(30,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewClients.h(7,34): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewClients.h(28,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewClients.h(48,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateClientsScreen.h(10,40): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateClientsScreen.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateClientsScreen.h(56,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindClientScreen.h(11,16): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDepositScreen.h(7,35): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDepositScreen.h(31,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDepositScreen.h(44,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsWithdrawScreen.h(7,36): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsWithdrawScreen.h(31,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsTotalBalancesScreen.h(8,41): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsTotalBalancesScreen.h(26,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsTotalBalancesScreen.h(53,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsTransactionsScreen.h(12,40): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsTransactionsScreen.h(109,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(9,30): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(11,38): error C2061: syntax error: identifier 'clsUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(14,70): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(15,45): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(16,45): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(17,45): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(18,45): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(19,45): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(29,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(44,17): error C2660: 'clsListUsers::_PrintUserRecordLine': function does not take 1 arguments
+  (compiling source file 'Add_New_Client.cpp')
+      C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(11,17):
+      see declaration of 'clsListUsers::_PrintUserRecordLine'
+      C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsListUsers.h(44,17):
+      while trying to match the argument list '(clsUser)'
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(9,39): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(13,31): error C2061: syntax error: identifier 'clsUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(34,28): error C2061: syntax error: identifier 'clsUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(16,9): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(19,9): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(22,9): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(25,9): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(28,9): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(31,9): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(38,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(126,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(138,17): error C2146: syntax error: missing ';' before identifier 'NewUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(138,17): error C2065: 'NewUser': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(140,23): error C2065: 'NewUser': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(144,22): error C2065: 'NewUser': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsAddNewUserScreen.h(151,24): error C2065: 'NewUser': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(10,37): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(12,25): error C2061: syntax error: identifier 'clsUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(16,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(17,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(18,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(19,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(20,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(21,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(22,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(23,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(30,3): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(42,11): error C2146: syntax error: missing ';' before identifier 'User1'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(42,11): error C2065: 'User1': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(43,14): error C2065: 'User1': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(53,8): error C2065: 'User1': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsDeleteUserScreen.h(56,16): error C2065: 'User1': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(7,37): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(80,28): error C2061: syntax error: identifier 'clsUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(100,25): error C2061: syntax error: identifier 'clsUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(83,3): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(86,3): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(89,3): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(92,3): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(95,3): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(98,3): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(104,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(105,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(106,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(107,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(108,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(109,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(110,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(111,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(117,9): error C3861: '_DrawScreenHeader': identifier not found
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(120,11): error C2146: syntax error: missing ';' before identifier 'User'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(120,11): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(125,20): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(126,23): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(129,22): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsUpdateUserScreen.h(136,24): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(7,35): error C2504: 'clsScreen': base class undefined
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(10,25): error C2061: syntax error: identifier 'clsUser'
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(14,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(15,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(16,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(17,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(18,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(19,33): error C2065: 'User': undeclared identifier
+  (compiling source file 'Add_New_Client.cpp')
+  
+C:\Users\m7ama\source\repos\Add_New_Client\Add_New_Client\clsFindUserScreen.h(19,33): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'Add_New_Client.cpp')
+  

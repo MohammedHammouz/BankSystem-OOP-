@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUpdateClientsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsUpdateClientsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsPermissions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsPermissions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsListUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsListUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsAddNewClients.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\clsAddNewClients.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\Add_New_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E108C458-8F99-4F3F-9DA4-8FDA518C3AF0}|Add_New_Client\\Add_New_Client.vcxproj|solutionrelative:Add_New_Client\\Add_New_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAGIAAAAAAAAAAAApwHcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:48.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\Global.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\Global.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\Global.h",
+              "RelativeToolTip": "Add_New_Client\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:53.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsWithdrawScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsWithdrawScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsWithdrawScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:53.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUtil.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsUtil.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUtil.h",
+              "RelativeToolTip": "Add_New_Client\\clsUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:52.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUser.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsUser.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUser.h",
+              "RelativeToolTip": "Add_New_Client\\clsUser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:50.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsUpdateClientsScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUpdateClientsScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsUpdateClientsScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsUpdateClientsScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsUpdateClientsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:47.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsTransactionsScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsTransactionsScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsTransactionsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:47.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAACYAAAAAAAAAAAApwCkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:27.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsTotalBalancesScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsTotalBalancesScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsTotalBalancesScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsTotalBalancesScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsTotalBalancesScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:46.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsString.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsString.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsString.h",
+              "RelativeToolTip": "Add_New_Client\\clsString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:45.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:44.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsPerson.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsPerson.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsPerson.h",
+              "RelativeToolTip": "Add_New_Client\\clsPerson.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:43.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsPermissions.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsPermissions.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsPermissions.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsPermissions.h",
+              "RelativeToolTip": "Add_New_Client\\clsPermissions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:43.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsManageUsersScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:39.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsMainScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsMainScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsMainScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:36.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsLogin.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsLogin.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsLogin.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsLogin.h",
+              "RelativeToolTip": "Add_New_Client\\clsLogin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsListUsers.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsListUsers.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsListUsers.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsListUsers.h",
+              "RelativeToolTip": "Add_New_Client\\clsListUsers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:33.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsInputValidate.h",
+              "RelativeToolTip": "Add_New_Client\\clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:32.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsFindUserScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsFindUserScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsFindUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsFindClientScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsFindClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:30.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsDepositScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDepositScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsDepositScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:28.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsDeleteClientScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsDeleteClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:22.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDate.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsDate.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsDate.h",
+              "RelativeToolTip": "Add_New_Client\\clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:21.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsClientListScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsClientListScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsClientListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:21.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsBankClient.h",
+              "RelativeToolTip": "Add_New_Client\\clsBankClient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:20.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "Add_New_Client\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:18.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsAddNewClients.h",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsAddNewClients.h",
+              "RelativeDocumentMoniker": "Add_New_Client\\clsAddNewClients.h",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\clsAddNewClients.h",
+              "RelativeToolTip": "Add_New_Client\\clsAddNewClients.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T14:34:16.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Add_New_Client.cpp",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\Add_New_Client.cpp",
+              "RelativeDocumentMoniker": "Add_New_Client\\Add_New_Client.cpp",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Add_New_Client\\Add_New_Client\\Add_New_Client.cpp",
+              "RelativeToolTip": "Add_New_Client\\Add_New_Client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T14:37:10.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
